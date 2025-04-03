@@ -1,3 +1,12 @@
+### 0.3.0 and later
+
+The source of 2fc0f18 is made available under the GNU GPL v3.
+To contributors, the source is additionally made available under the MIT license. For more information, see: https://github.com/valoeghese/2fc0f18/blob/master/LICENCE.txt
+
+Permission is granted to mess with the code for educational purposes. In fact, I even encourage SWE students to mess around with this.
+
+### Before 0.3.0
+
 All Rights Reserved unless explicitly stated. (valo 2020)
 
 EULA
